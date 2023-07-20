@@ -1,4 +1,4 @@
-import logo from "../assets/imgs/logo.png";
+import logo from "/logo.png";
 
 export default function Example() {
 	return (
@@ -39,7 +39,7 @@ export default function Example() {
 						</p>
 						<div className="mt-10 flex items-center justify-center gap-x-6">
 							<a
-								href="#"
+								href="https://github.com/flyer-projects"
 								className="text-sm font-semibold leading-6 text-gray-900"
 							>
 								了解更多 <span aria-hidden="true">→</span>
